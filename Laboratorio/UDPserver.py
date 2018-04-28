@@ -1,5 +1,4 @@
 from socket import*
-
 serverPort = 12345
 serverSocket = socket(AF_INET, SOCK_DGRAM)
 serverSocket.bind(('', serverPort))
