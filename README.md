@@ -1,4 +1,4 @@
-# Fondamenti-Internet-Reti
+# Fondamenti di Internet e Reti @ Politecnico di Milano
 
 Appunti del corso "Fondamenti di internet e reti", facoltà di Ing. Informatica presso Politecnico di Milano. Raccolta a cura di Francesco Puddu.
 
