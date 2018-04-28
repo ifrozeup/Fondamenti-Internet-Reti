@@ -1,4 +1,5 @@
 # Fondamenti-Internet-Reti
 
 Appunti del corso "Fondamenti di internet e reti", facoltà di Ing. Informatica presso Politecnico di Milano.
-Tutto il materiale didattico è anche disponibile sulla pagina del corso: http://www.antlab.polimi.it/teaching/fondamenti-di-internet-e-reti#lezioni
+
+Tutto il materiale didattico è anche disponibile sulla pagina del corso: http://www.antlab.polimi.it/teaching/fondamenti-di-internet-e-reti
