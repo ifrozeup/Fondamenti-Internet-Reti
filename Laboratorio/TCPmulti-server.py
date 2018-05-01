@@ -12,8 +12,10 @@ def handler(newSocket):
 
 serverPort = 12000
 serverSocket = socket(AF_INET, SOCK_STREAM)
+
 #opzione per riciclare la porta
 serverSocket.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
+
 serverSocket.bind(('', serverPort))
 serverSocket.listen(1)
 
